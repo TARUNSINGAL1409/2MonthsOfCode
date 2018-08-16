@@ -1,0 +1,28 @@
+Puzzle1:
+You have two hourglasses: a 7 minute one and a 11 minute one. Using just two hourglass,
+accurately time 15 minutes.
+
+Puzzle2:
+There are three closed and opaque cardboard boxes. One is labeled "APPLES",
+another is labeled "ORANGES", and the last is labeled "APPLES AND ORANGES". You know
+that the labels are currently misarranged, such that no box is correctly labeled. You would like
+to correctly rearrange these labels. To accomplish this, you may draw only one fruit
+from one of the boxes. Which box do you choose, and how do you then proceed to
+rearrange the labels?
+
+Puzzle3:
+Three coworkers would like to know their average salary. However, they are self-
+conscious and don't want to tell each other their own salaries, for fear of either being
+ridiculed or getting their houses robbed. How can they find their average salary, without
+disclosing their own salaries?
+
+Puzzle4:
+An evil king has 1000 bottles of wine. A neighboring queen plots to kill the bad king, and sends a
+servant to poison the wine. The king's guards catch the servant after he has only poisoned one bottle.
+The guards don't know which bottle was poisoned, but they do know that the poison is so potent that
+even if it was diluted 1,000,000 times, it would still be fatal. Furthermore, the effects of the poison
+take one month to surface. The king decides he will get some of his prisoners in his vast dungeons to
+drink the wine. Rather than using 1000 prisoners each assigned to a particular bottle, this king
+knows that he needs to murder no more than 10 prisoners to figure out what bottle is poisoned, and
+will still be able to drink the rest of the wine in 5 weeks time. How does he pull this off?
+
