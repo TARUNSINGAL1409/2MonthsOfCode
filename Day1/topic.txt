@@ -1,4 +1,3 @@
-cat >>ic.txt
 Flowchart
 Programs
 Puzzles
