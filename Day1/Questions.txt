@@ -1,3 +1,16 @@
 1. WAP to accept an integer N and prints the sum of first N numbers.
 
-2. 
+2. WAP to accept an integer N and print its LCM.
+
+3. WAP to print the maximum of two number without using if-else, looping, ternary, switch
+
+4. WAP to accept an integer N and print weather it's prime or not.
+
+5.  
+Input : Tarun Singal
+Ouput: Tarun%20Singal
+
+6.
+WAP to print the greatest fo three numbers.
+
+7.
