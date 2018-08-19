@@ -1,0 +1,10 @@
+1. Put the two hourglasses together.
+2. When 7 minutes are over i.e. when hourglass of 7 minute completes, the amount of sand left in other hourglass i.e. in 11 minute hourglass will be equivalent to 4 minutes.
+3. Now reverse the 7 minute hourglass.
+4. When 4 minutes are over i.e. when sand in 11 minute hourglass finishes, in total 11 minutes have passed.
+5. Durring these 4 minutes amount of sand collected in lower part of 7 minute hourglass will be equivalent to 4 minutes.
+6. Now reverse the 7 minute hourglass again as its upper part is containing sand that will take 4 minutes to fall down.
+7. In step 2, 7 minutes have been covered.
+   In step 4, 4 minutes have been covered.
+   And in step 6, 4 steps have been covered.
+   Therefore 15 minutes have been counted. 
